@@ -2,5 +2,6 @@
     "S_ORDER.ORDER_NUM": [
         "1-229777676691",
         "1-231790123987"
-    ]
+    ],
+    "S_ORDER_ITEM.STATUS_CD": "Closed"
 }
