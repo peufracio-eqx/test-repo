@@ -1,12 +1,12 @@
 Component_ID,Component_Name,Component_Type,Package_version,Deploy_Required,Listener_Status
-7f2b17f3-a588-4a7a-aee2-54d6f6d16497,[MSG]-Account-Create-[ServiceNow],Process,1.4,Yes,R
+7f2b17f3-a588-4a7a-aee2-54d6f6d16497,[MSG]-Account-Create-[ServiceNow],Process,1.4,No,R
 7851b82b-7408-4f84-b915-a73062410791,[API]-INT3004-DART-NW-Port-Migration-Siebel_SIT,Process,1.20,No,R
 21aa0647-2c10-4044-a2fc-a0ba2d8ca36d,[API]-get-order-details-[SBL],Process,1.14,No,R
 73703298-0b12-49f1-8540-77bce003eadb,[api]-nw_port_migration,Process,1.1,No,R
 b779b08c-02b6-4c3f-879a-cf05da70a990,[test] Account Create DIH-SNOW,Process,1.1,No,R
 d8db170a-bddc-494e-927f-a3276ee6304d,(sub)-prepare-error-cache,Process,1.4,No,R
 b0a32c2a-7325-402c-a64c-199081648653,(sub)-ServiceNow-Token-Refresh,Process,1.4,No,R
-a526365d-cd50-4bff-af9a-419bb8b414a5,[MSG]-INT3001-Account-Publish-RabbitMQ_SIT,Process,1.4,Yes,P
+a526365d-cd50-4bff-af9a-419bb8b414a5,[MSG]-INT3001-Account-Publish-RabbitMQ_SIT,Process,1.7,Yes,P
 59e49d0b-0bd5-43ee-83c3-3dece22cc54d,[MSG]-INT3001-Account-Subscribe-ServiceNow,Process,5.1,No,R
 0e8ccde1-ab67-4474-a707-748f79f56d75,[MSG]-INT3002-Contact-Publish-RabbitMQ_DEV,Process,1.1,No,R
 bf8b8ed2-b0a1-4279-ba16-16bb5a7eb25b,[MSG]-INT3002-Contact-Publish-RabbitMQ_SIT,Process,1.1,No,R
