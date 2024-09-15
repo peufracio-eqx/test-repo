@@ -1,0 +1,33 @@
+﻿ORDER_NUM,IBX,O_TYPE,O_SOURCE,Q_TYPE,ORDS,ORD_U,ROW_ID,SWAPID,DI_FLG,ACTION_CD,NAME,PART_NUM,POF,LN,LIS,Q_ED,SOLIC,SOLIU
+1-5433290651,SY3,Amendment,WEB-ECX,,Closed,0-1,1-2HVR5XH,,N,Add,Virtual Circuit Product,CC00002.PROD,1-2HVR5XH,1,Closed,,14/7/15 12:51,31/5/16 3:24
+1-5433290651,SY3,Amendment,WEB-ECX,,Closed,0-1,1-2HVWPTS,,N,Add,Virtual Circuit Azure ExpressRoute,CC00010.ELEM,1-2HVR5XH,2,Closed,,14/7/15 12:51,31/5/16 3:24
+1-5451231491,SY3,Amendment,WEB-ECX,,Closed,0-1,1-2I5YFW1,,N,Add,Virtual Circuit Product,CC00002.PROD,1-2I5YFW1,1,Closed,,14/7/15 21:48,31/5/16 3:19
+1-5451231491,SY3,Amendment,WEB-ECX,,Closed,0-1,1-2I5YFXW,,N,Add,Virtual Circuit Azure ExpressRoute,CC00010.ELEM,1-2I5YFW1,2,Closed,,14/7/15 21:48,31/5/16 3:19
+1-5448931081,SY3,Amendment,WEB-ECX,,Closed,0-1,1-2I6A9CZ,,N,Add,Virtual Circuit Product,CC00002.PROD,1-2I6A9CZ,1,Closed,,14/7/15 21:48,31/5/16 3:23
+1-5448931081,SY3,Amendment,WEB-ECX,,Closed,0-1,1-2I6A9EU,,N,Add,Virtual Circuit Azure ExpressRoute,CC00010.ELEM,1-2I6A9CZ,2,Closed,,14/7/15 21:48,31/5/16 3:23
+1-24930152681,SY3,Amendment,WEB-ECX,,Closed,0-1,1-BGGYC7B,,N,Add,Virtual Circuit Product,CC00002.PROD,1-BGGYC7B,1,Closed,,26/8/15 5:48,16/6/16 6:40
+1-24930152681,SY3,Amendment,WEB-ECX,,Closed,0-1,1-BGGYC96,,N,Add,Virtual Circuit Azure ExpressRoute,CC00010.ELEM,1-BGGYC7B,2,Closed,,26/8/15 5:48,16/6/16 6:40
+1-24939268941,SY3,Amendment,WEB-ECX,,Closed,0-1,1-BGGZ82T,,N,Add,Virtual Circuit Product,CC00002.PROD,1-BGGZ82T,1,Closed,,26/8/15 5:51,16/6/16 6:43
+1-24939268941,SY3,Amendment,WEB-ECX,,Closed,0-1,1-BGGZ84O,,N,Add,Virtual Circuit Azure ExpressRoute,CC00010.ELEM,1-BGGZ82T,2,Closed,,26/8/15 5:51,16/6/16 6:43
+1-26006658761,SY3,Amendment,WEB-ECX,,Closed,0-1,1-BY7DMDH,,N,Add,Virtual Circuit Product,CC00002.PROD,1-BY7DMDH,1,Closed,,10/9/15 2:35,16/6/16 6:43
+1-26006658761,SY3,Amendment,WEB-ECX,,Closed,0-1,1-BY7DMFC,,N,Add,Virtual Circuit Azure ExpressRoute,CC00010.ELEM,1-BY7DMDH,2,Closed,,10/9/15 2:35,16/6/16 6:43
+1-26012651871,SY3,Amendment,WEB-ECX,,Closed,0-1,1-BY7MJ7H,,N,Add,Virtual Circuit Product,CC00002.PROD,1-BY7MJ7H,1,Closed,,10/9/15 2:35,16/6/16 6:39
+1-26012651871,SY3,Amendment,WEB-ECX,,Closed,0-1,1-BY7MJ9C,,N,Add,Virtual Circuit Azure ExpressRoute,CC00010.ELEM,1-BY7MJ7H,2,Closed,,10/9/15 2:35,16/6/16 6:39
+1-26081261591,SY3,Amendment,WEB-ECX,,Closed,0-1,1-BZHO5ZP,,N,Add,Virtual Circuit Product,CC00002.PROD,1-BZHO5ZP,1,Closed,,11/9/15 0:14,16/6/16 6:41
+1-26081261591,SY3,Amendment,WEB-ECX,,Closed,0-1,1-BZHO61K,,N,Add,Virtual Circuit Azure ExpressRoute,CC00010.ELEM,1-BZHO5ZP,2,Closed,,11/9/15 0:14,16/6/16 6:41
+1-45064636511,ME1,Amendment,WEB-ECX,,Closed,0-1,1-KPABE1B,,N,Add,Virtual Circuit Product,CC00002.PROD,1-KPABE1B,1,Closed,,5/4/16 4:12,5/4/16 4:19
+1-45064636511,ME1,Amendment,WEB-ECX,,Closed,0-1,1-KPABE37,,N,Add,Virtual Circuit Azure ExpressRoute,CC00010.ELEM,1-KPABE1B,2,Closed,,5/4/16 4:12,5/4/16 4:19
+1-49698606831,ME1,Amendment,WEB-ECX,,Closed,0-1,1-MU2A6CZ,,N,Add,Virtual Circuit Product,CC00002.PROD,1-MU2A6CZ,1,Closed,,1/6/16 7:40,1/6/16 8:08
+1-49698606831,ME1,Amendment,WEB-ECX,,Closed,0-1,1-MU2A6IR,,N,Add,Virtual Circuit Azure ExpressRoute,CC00010.ELEM,1-MU2A6CZ,2,Closed,,1/6/16 7:40,1/6/16 8:08
+1-51987211221,ME1,Amendment,WEB-ECX,,Closed,0-1,1-NVSYZF1,,N,Add,Virtual Circuit Product,CC00002.PROD,1-NVSYZF1,1,Closed,,16/6/16 3:15,16/6/16 3:27
+1-51987211221,ME1,Amendment,WEB-ECX,,Closed,0-1,1-NVSYZGX,,N,Add,Virtual Circuit Azure ExpressRoute,CC00010.ELEM,1-NVSYZF1,2,Closed,,16/6/16 3:15,16/6/16 3:27
+1-61669880306,ME1,Amendment,WEB-ECX,,Closed,0-1,1-SBW1ESO,,N,Add,Virtual Circuit Product,CC00002.PROD,1-SBW1ESO,1,Closed,,14/9/16 3:00,14/9/16 3:06
+1-61669880306,ME1,Amendment,WEB-ECX,,Closed,0-1,1-SBW1EUK,,N,Add,Virtual Circuit Azure ExpressRoute,CC00010.ELEM,1-SBW1ESO,2,Closed,,14/9/16 3:00,12/12/16 1:43
+1-61670354421,ME1,Amendment,WEB-ECX,,Closed,0-1,1-SBX92IW,,N,Add,Virtual Circuit Product,CC00002.PROD,1-SBX92IW,1,Closed,,14/9/16 3:15,14/9/16 3:22
+1-61670354421,ME1,Amendment,WEB-ECX,,Closed,0-1,1-SBX92KS,,N,Add,Virtual Circuit Azure ExpressRoute,CC00010.ELEM,1-SBX92IW,2,Closed,,14/9/16 3:15,14/9/16 3:22
+1-61665263285,ME1,Amendment,WEB-ECX,,Closed,0-1,1-SBYA7YY,,N,Add,Virtual Circuit Product,CC00002.PROD,1-SBYA7YY,1,Closed,,14/9/16 3:30,14/9/16 3:36
+1-61665263285,ME1,Amendment,WEB-ECX,,Closed,0-1,1-SBYA80U,,N,Add,Virtual Circuit Azure ExpressRoute,CC00010.ELEM,1-SBYA7YY,2,Closed,,14/9/16 3:30,12/12/16 1:42
+1-66225747361,ME1,Amendment,WEB-ECX,,Closed,0-1,1-UFH0VLE,,N,Add,Virtual Circuit Product,CC00002.PROD,1-UFH0VLE,1,Closed,,12/10/16 5:00,12/10/16 7:30
+1-66225747361,ME1,Amendment,WEB-ECX,,Closed,0-1,1-UFH0VNA,,N,Add,Virtual Circuit Azure ExpressRoute,CC00010.ELEM,1-UFH0VLE,2,Closed,,12/10/16 5:00,12/10/16 7:30
+1-72629098883,ME1,New,Quote,New,Closed,1-1V3DR58,1-YTM0I8D,,N,Add,Cross Connect,CC00001.PROD,1-YTM0I8D,1,Closed,,6/12/16 0:44,7/12/16 6:52
+1-72629098883,ME1,New,Quote,New,Closed,1-1V3DR58,1-YTM0I9E,,N,Add,Network Cable Connection,CC00001.ELEM,1-YTM0I8D,3,Closed,,6/12/16 0:44,7/12/16 6:52
